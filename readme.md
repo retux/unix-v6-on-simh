@@ -1,4 +1,4 @@
-##Unix 6th edition from BTL ready to run on simh emulator (PDP-11/40)
+## Unix 6th edition from BTL ready to run on simh emulator (PDP-11/40)
 ===================================================================
 
 This is distributed for educational purposes, for anyone that wishes to take a glimpse on a 
