@@ -1,8 +1,12 @@
-Unix 6th edition from BTL
-=========================
+Unix 6th edition from BTL ready to run on simh emulator (PDP-11/40)
+===================================================================
 
 This is distributed for educational purposes, for anyone that wishes to take a glimpse on a 
 software that is a huge historical and technical contribution.
+
+These files have been reproduced by following the procedure described on this page:
+ 
+http://a.papnet.eu/UNIX/v6/installation
 
 Hardware emulation used is provided by simh. Thanks to Bob Supnik and other contributors to simh open
 source project.
